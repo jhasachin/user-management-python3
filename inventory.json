@@ -1,0 +1,1 @@
+[{"name": "centos", "groups": ["adm", "wheel", "systemd-journal"], "password": "!!"}, {"name": "sachcode", "groups": ["wheel", "docker"], "password": "$6$lKfe0NeF$L7eR8iUu.LTiqXI0TLpZbM0E9lbiB5DLdKVE.jsVSXJmCjrS.Q478q2hFN3TQMxjRypBq4Jd9OZDW48YwsDmh/"}]
